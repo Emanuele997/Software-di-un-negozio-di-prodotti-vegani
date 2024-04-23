@@ -2,6 +2,9 @@
 
 Ho iniziato con una fase di pianificazione approfondita, analizzando i requisiti specificati per il progetto. Questo mi ha permesso di capire le funzionalità chiave che il software doveva offrire, come la registrazione di nuovi prodotti, la gestione delle vendite, e il calcolo dei profitti. Durante questa fase, ho anche valutato l'importanza di una interfaccia utente intuitiva che operasse tramite linea di comando, essenziale per facilitare l'interazione dell'utente con il software.
 
+1. Pianificazione e Analisi dei Requisiti
+Ho iniziato con una fase di pianificazione approfondita, analizzando i requisiti specificati per il progetto. Questo mi ha permesso di capire le funzionalità chiave che il software doveva offrire, come la registrazione di nuovi prodotti, la gestione delle vendite, e il calcolo dei profitti. Durante questa fase, ho anche valutato l'importanza di una interfaccia utente intuitiva che operasse tramite linea di comando, essenziale per facilitare l'interazione dell'utente con il software.
+
 2. Scelta delle Strutture Dati
 Per memorizzare i dati in modo efficiente, ho deciso di utilizzare una combinazione di liste e dizionari. I prodotti sono stati memorizzati in una lista di dizionari, con ciascun dizionario contenente dettagli come nome, quantità, prezzo di acquisto e prezzo di vendita. Questa scelta mi ha permesso di gestire facilmente l'aggiunta, la modifica e l'eliminazione dei prodotti nel sistema.
 
@@ -21,5 +24,4 @@ Per garantire la robustezza del software, ho implementato diversi controlli di v
 Infine, ho condotto una serie di test funzionali per verificare che tutte le componenti del software funzionassero come previsto. Questo ha incluso testare la gestione dell'inventario, le vendite, e i calcoli dei profitti, così come la resilienza del software agli input errati o ai tentativi di operazioni non valide.
 
 Attraverso questi passaggi, sono riuscito a creare un software di gestione che non solo soddisfa i requisiti del negozio di prodotti vegani ma è anche intuitivo da usare e robusto nelle sue funzionalità.
-
 
